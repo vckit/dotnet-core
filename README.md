@@ -14,3 +14,6 @@
         o---o  |      |  o-o  |    |  O--Oo     |       |     O---O  | \o/ |   o--o 
         |   |  |      o    |  o    o  |  \      |       |     |   |  |     |      | 
         o   o  O---o   o--o    o--o   o   \o  o-O-o     o     o   o  o     o  o---o 
+
+# © copyright
+### mr. Abdulkhakim M. 2021
