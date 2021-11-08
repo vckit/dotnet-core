@@ -1,5 +1,5 @@
 # my-repos dotnet-core
-### Projects written on macOS .net core platform using docker mssql We continue to learn the C # language and data science already on .net core
+Projects written on macOS .net core platform using docker mssql We continue to learn the C # language and data science already on .net core
 
 
                                       o---o    |   |                                 
